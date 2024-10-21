@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400"
-src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt0dzhzZ2p5Yzh2c3N0c3E4dGd6em90eHlqa3B6dXlpeGJpcXU1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-muhammad" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
