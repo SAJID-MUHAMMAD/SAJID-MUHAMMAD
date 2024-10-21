@@ -1,6 +1,8 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3ZG5pa2E0NnB2dmU5enYzeHh1bG04cHRieWVmZnY1NHQ3enp6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpLVqOg8xTY3EmoYF7/giphy.webp)
+![MasterHead](https://img.freepik.com/premium-photo/coding-concept-word-coding-with-neon-illuminated-background-with-blur-coding-hacker-3d-render-illustration_507676-468.jpg?w=1060)
 
-<h1 align="center">Hi 👋, I'm Sajid Muhammad</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Sajid+Muhammad!;" />
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400"
 src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
